@@ -2,6 +2,7 @@
 
 
 ------------------------------------------------------------------Jeito dificil----------------------------------------------------------------------------
+
 #Baixe o arquivo .c
 
 #Com o arquivo na sua maquina você terá que fazer um .h declarando as respectivas "typedef int COMP(void* x, void* y), typedef struct vet{
