@@ -1,4 +1,7 @@
 # TR4_511226
+
+
+------------------------------------------------------------------Jeito dificil----------------------------------------------------------------------------
 #Baixe o arquivo .c
 
 #Com o arquivo na sua maquina você terá que fazer um .h declarando as respectivas "typedef int COMP(void* x, void* y), typedef struct vet{
@@ -11,4 +14,5 @@ VETORORD* VETORD_create(int n, COMP* compara), void VETORD_add(VETORORD* vetor, 
 
 #Para compilar este codigo .c vá na pasta em que ele esta localizado abra o terminal linux na pasta respectiva pasta e digite: gcc TR4_511226.c -o prog1
 
-#Com as funcoes declaradas em um arquivo .h basta apenas chamar essa biblioteca em sua main e codigo funcionara normalmente
+#Com as funcoes declaradas em um arquivo .h basta apenas chamar essa biblioteca na main do seu programa
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
